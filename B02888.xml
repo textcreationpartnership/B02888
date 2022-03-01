@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dead mans song, whose dwelling was near Basing-hall in London. To the tune of, Flying fame.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02888</idno>
+            <idno type="STC">Wing D489AB</idno>
+            <idno type="STC">ESTC T32139</idno>
+            <idno type="EEBO-CITATION">47012385</idno>
+            <idno type="OCLC">ocm 47012385</idno>
+            <idno type="VID">174355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174355)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2686:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dead mans song, whose dwelling was near Basing-hall in London. To the tune of, Flying fame.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n. ,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174355:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>HE DEAD MANS SONG,</hi> Who dwelling was near Baſing-hall in <hi>London.</hi>
+            </head>
+            <opener>To the Tune of, Flying Fam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </opener>
+            <lg>
+               <l>SOre ſick dear friends long time I was</l>
+               <l>and veakly la<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in bed,</l>
+               <l>And for five hours in all mens ſight</l>
+               <l>at leng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h I lay as dead.</l>
+               <l>The bell rang out, my friends came in,</l>
+               <l>and I key-cold was found,</l>
+               <l>Then was my carkaſſe brought from bed</l>
+               <l>and laid upon the ground.</l>
+            </lg>
+            <lg>
+               <l>My loding wife did weep full ſore,</l>
+               <l>my children loud did cry,</l>
+               <l>My friends did mourn, yet this they ſaid</l>
+               <l>all fleſh is born to die:</l>
+               <l>My winding-ſheet prepared was,</l>
+               <l>my grave was alſo made;</l>
+               <l>And for five hours by juſt report;</l>
+               <l>in this <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame caſe I laid.</l>
+            </lg>
+            <lg>
+               <l>During which time my ſoul did ſee,</l>
+               <l>ſuch ſtrange and fearful ſights,</l>
+               <l>That for to hear the ſame d<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>clos'd,</l>
+               <l>would baniſh all delights:</l>
+               <l>Yet ſith the Lord reſtor'd my life;</l>
+               <l>which from my badie flad;</l>
+               <l>I will declare the ſight I ſaw,</l>
+               <l>the time that I was dead.</l>
+            </lg>
+            <lg>
+               <l>We thought upon a lovelie green,</l>
+               <l>where pleaſant flowers ſyrang,</l>
+               <l>I took my way wo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reas I thought,</l>
+               <l>the Muſes ſweetlie ſang:</l>
+               <l>The graſs was ſweet the trees were fair</l>
+               <l>and lovelie to behold.</l>
+               <l>And full of fruits was everie twig,</l>
+               <l>which ſhin'd like gliſt'ring gold.</l>
+            </lg>
+            <lg>
+               <l>My chearful heart deſtred much,</l>
+               <l>to taſte the fruit moſt fair;</l>
+               <l>But as I reacht a fair young man,</l>
+               <l>to me did make repair:</l>
+               <l>Touch not, ſaid he, its none of thins,</l>
+               <l>but wend and walk with m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</l>
+               <l>And ſee thou mark each ſeveral thing,</l>
+               <l>which I ſhall ſhew to thee.</l>
+            </lg>
+            <lg>
+               <l>I wondred great lie at his words,</l>
+               <l>yet went with him away,</l>
+               <l>Till on a goodlie pleaſant bank,</l>
+               <l>with him he vade me ſtay:</l>
+               <l>With branches then of Lillies white,</l>
+               <l>mine eyes there wiped be,</l>
+               <l>When this was done be bade me look,</l>
+               <l>what I far off could ſee.</l>
+            </lg>
+            <lg>
+               <l>I looked up and lo at laſt,</l>
+               <l>I did a City ſee,</l>
+               <l>So fair a thing did never man,</l>
+               <l>behold with mortal eye:</l>
+               <l>Of diamonds, peales, and precious ſtones</l>
+               <l>it ſeems the walls were made;</l>
+               <l>The houſes all with beaten gold,</l>
+               <l>were til'd and overlaid.</l>
+            </lg>
+            <lg>
+               <l>More brighter then the morning Sun,</l>
+               <l>the light thereof did ſhow,</l>
+               <l>And everie Creature in the ſame,</l>
+               <l>like crowned Kings did go:</l>
+               <l>The fields about the City fair,</l>
+               <l>were all with Roles ſet;</l>
+               <l>Gillie flowers and Carnations fair,</l>
+               <l>watch canker could not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</l>
+            </lg>
+            <lg>
+               <l>And from the fields there did proceed</l>
+               <l>a ſweet and pleaſant ſmell,</l>
+               <l>That everi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ving Creature felt,</l>
+               <l>the ſcene did ſo <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xcel:</l>
+               <l>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſides ſuch ſweet and pleaſant mirth,</l>
+               <l>did from the City ſound,</l>
+               <l>That I therewith was raviſhed,</l>
+               <l>my joy di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo abound.</l>
+            </lg>
+            <lg>
+               <l>Wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h muſick, mirth and melodie,</l>
+               <l>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s did there imbrace,</l>
+               <l>That in my heart I long'd to be.</l>
+               <l>within that bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed place:</l>
+               <l>The more I gaz<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, the more I might,</l>
+               <l>the ſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleas'd me ſo well:</l>
+               <l>For wha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I ſaw in everte thing,</l>
+               <l>my tongue can no way tell.</l>
+            </lg>
+            <lg>
+               <l>Then of the man I did demand,</l>
+               <l>what place the ſame might be,</l>
+               <l>Whereas ſo man<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Kings did dwel,</l>
+               <l>in joy and melodie:</l>
+               <l>Quoth be crat bleſſed place is heaven,</l>
+               <l>where yet thou canſt not reſt;</l>
+               <l>And thoſe that do like Princes walk,</l>
+               <l>are men whem God hath bleſt.</l>
+            </lg>
+            <lg>
+               <l>Then did he turn me round about,</l>
+               <l>and on the other ſide,</l>
+               <l>He have me view and mark as much,</l>
+               <l>what things were to be ſpy'd:</l>
+               <l>With that I ſaw a Coal-black Den,</l>
+               <l>all tan'd with ſoot and ſmook,</l>
+               <l>Where ſtoking brimſtone burning was,</l>
+               <l>which made me like to choak.</l>
+            </lg>
+            <lg>
+               <l>An uglie creature there I ſaw,</l>
+               <l>whoſe face with knives were ſlaſht,</l>
+               <l>And in a cauldron of poyſend filth.</l>
+               <l>his uglie corps was waſht:</l>
+               <l>About his neck were ſundrie rifts,</l>
+               <l>that flam'd on everie ſide;</l>
+               <l>I ask<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and lo the young man ſaid,</l>
+               <l>that he was damn'd for pride.</l>
+            </lg>
+            <lg>
+               <l>Another ſort there did I ſee,</l>
+               <l>whole bowels Vipers tore,</l>
+               <l>And grievouſly with gaping mouth,</l>
+               <l>they did both yell and roar:</l>
+               <l>A ſpoted perſon by each one,</l>
+               <l>ſtood gn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wing on their hearts;</l>
+               <l>And this was conſcience I was told,</l>
+               <l>that plagu'd the inward parts.</l>
+            </lg>
+            <lg>
+               <l>They were no ſooner out of ſight,</l>
+               <l>but ſtraight came in their place,</l>
+               <l>A ſort ſtill corowing burning fire,</l>
+               <l>which ſell againſt their face:</l>
+               <l>And Ladies full of melted Gold</l>
+               <l>were poured down their throats.</l>
+               <l>An theſe were ſet it ſeem'd to me.</l>
+               <l>in midſt of burning boats.</l>
+            </lg>
+            <lg>
+               <l>The formoſt of the companie</l>
+               <l>was Iudas I was told,</l>
+               <l>Who had for ſt'thie Lueres ſake,</l>
+               <l>his Lord and Maſter ſold</l>
+               <l>For covetouſneſſe they were condemn'd</l>
+               <l>ſo it was told to me.</l>
+               <l>And there me thought another rout</l>
+               <l>of hell hounds I did ſee.</l>
+            </lg>
+            <lg>
+               <l>Their faces they ſeem'd fat in ſight,</l>
+               <l>yet all their bones were hare;</l>
+               <l>And diſhes full of crawling Toads,</l>
+               <l>were made their fineſt fare:</l>
+               <l>From arms, from lands, from thighs and feet</l>
+               <l>with red hot pincers then,</l>
+               <l>The fleſh was pluckt even from the bone</l>
+               <l>of thoſe vile glutonous men.</l>
+            </lg>
+            <lg>
+               <l>On Coal-black beds another ſort,</l>
+               <l>in grievous ſort did ly;</l>
+               <l>And underneath them burning brands,</l>
+               <l>their fleſh did buth and fry:</l>
+               <l>With brimſtone fierce their pillows <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke</l>
+               <l>whereon their deads were laid,</l>
+               <l>And fiends with glowing whips of fire,</l>
+               <l>their treacherous fleſh off fla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</l>
+            </lg>
+            <lg>
+               <l>Then did I ſee another come,</l>
+               <l>ſtab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in with dagers <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hick,</l>
+               <l>And flithy fiends with fiery darts,</l>
+               <l>their hearts did wound and prick:</l>
+               <l>And mighty bowls of corrupt blood,</l>
+               <l>was brought for them to drink:</l>
+               <l>And theſe men were for murder plagu'd</l>
+               <l>from whence they could not ſhrink.</l>
+            </lg>
+            <lg>
+               <l>I ſaw when they were gone away,</l>
+               <l>the ſwearer and the lyat,</l>
+               <l>And they were hung up by the tongues</l>
+               <l>over a flame of fire:</l>
+               <l>From eyes, from ears, from navel &amp; noſe</l>
+               <l>and from their lower parts,</l>
+               <l>The blood me thought did ruſhing run,</l>
+               <l>and clogged like mens hearts.</l>
+            </lg>
+            <lg>
+               <l>I asked why that puniſhment,</l>
+               <l>was now anſwes rors laid,</l>
+               <l>Becauſe quoth be, wounds heart and blood</l>
+               <l>were ſtill the cath they made:</l>
+               <l>And there withal from ugly hell,</l>
+               <l>ſuch grievous crits I heard,</l>
+               <l>As though ſome greater grief and care,</l>
+               <l>had next them afterward.</l>
+            </lg>
+            <lg>
+               <l>So that my ſoul was ſore afraid,</l>
+               <l>ſuch t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cour on me tell,</l>
+               <l>Away then went the young man quite,</l>
+               <l>and have me not farewel:</l>
+               <l>Wherefore unto my body ſtraight,</l>
+               <l>my ſpirit return'd again:</l>
+               <l>And lively blood did afterwards</l>
+               <l>ſtretch forth in every v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in.</l>
+            </lg>
+            <lg>
+               <l>My cloſed eyes I opened,</l>
+               <l>and rais'd up from my ſwoend,</l>
+               <l>I wondred much to ſee my ſelf.</l>
+               <l>laid ſo upon the ground:</l>
+               <l>Which when my neighbours did behold,</l>
+               <l>great fear upon them fell,</l>
+               <l>To whom ſoon after I did tell.</l>
+               <l>the news from heaven and hell</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
